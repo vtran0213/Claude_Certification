@@ -1,7 +1,7 @@
 # Claude_Certification
 ## Certifications
 
-- [Claude 101 – Anthropic (Claude Academy)](PASTE-YOUR-VERIFICATION-LINK-HERE), completed [month, year]
+- [Claude 101 – Anthropic (Claude Academy)](https://academy.claude.com/verify/f8c818e492279eff75c81322d67e53d1), completed [November 1st, 2026]
 
 - Claude Certification
 
