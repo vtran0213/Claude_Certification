@@ -11,4 +11,5 @@
 ## Claude Certifications 3
 🎓 **AI capabilities and limitations**
 - [AI Capabilities and Limitations Certificate](https://academy.claude.com/verify/9a8534df691f695e44153f55cc2f4965), completed [November 10th, 2026]
+
 See the Claude certificates in this repository.
