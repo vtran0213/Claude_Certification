@@ -17,3 +17,14 @@ Skills and Knowledge
 - Certificate
 
 See the Claude 101 certificate in this repository.
+
+## Certifications
+- 🎓 **AI Fluency: Framework and Foundations** – Claude Academy
+
+  [View certificate](## Certifications
+
+
+
+- 🎓 **AI Fluency: Framework and Foundations** – Claude Academy (Anthropic)
+
+  [View certificate](https://academy.claude.com/verify/22898052c6d205c983941282d53042f1)
