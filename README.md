@@ -26,5 +26,4 @@ See the Claude 101 certificate in this repository.
 
 
 - 🎓 **AI Fluency: Framework and Foundations** – Claude Academy (Anthropic)
-
-  [View certificate](https://academy.claude.com/verify/22898052c6d205c983941282d53042f1)
+- - [AI Fluency: Framework & Foundations  Certificate](https://academy.claude.com/verify/22898052c6d205c983941282d53042f1), completed [November 9th, 2026]
